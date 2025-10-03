@@ -24,3 +24,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=singhanita154-pixel&show_icons=true&locale=en&layout=compact" alt="singhanita154-pixel" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=singhanita154-pixel&show_icons=true&locale=en" alt="singhanita154-pixel" /></p>
+
